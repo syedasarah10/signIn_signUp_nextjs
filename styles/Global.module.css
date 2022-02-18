@@ -1,0 +1,10 @@
+.navStyle {
+    display: flex;
+  }
+  
+  .linkStyle {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+
+  

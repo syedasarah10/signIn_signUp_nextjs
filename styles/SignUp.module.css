@@ -1,0 +1,42 @@
+.signInbutton{
+    background-color: #5d8dee;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  .container {
+    border-radius: 5px;
+    border-width: 2px;
+    background-color: aliceblue;
+    border-color: rgb(159, 199, 233);
+    box-shadow: black;
+    max-width: 300px;
+    padding: 10px;
+    position: fixed; 
+    margin-top: 30px; 
+    margin-left: 500px;
+  }
+  .container input[name=email], .container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: rgb(255, 255, 255);
+  }
+
+  .text{
+      color: black;
+      font-family: 'Arial Bold';
+      font-weight: bolder;
+      font-size: larger;
+  }
+
+  .signin{
+      border: none;
+      cursor: pointer;
+      background-color: aliceblue;
+      color: #5d8dee;
+  }

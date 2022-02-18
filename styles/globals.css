@@ -1,0 +1,32 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navStyle {
+  display: flex;
+}
+
+.linkStyle {
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.navbar{
+  padding: 14px 16px;
+  font-size: 17px;
+  color: black;
+  background-color: aliceblue;
+}

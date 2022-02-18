@@ -1,0 +1,43 @@
+.confirmSignUp{
+  background-color: #5d8dee;
+  color: white;
+  padding: 14px ;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 250px
+}
+.cancel{
+  color: #5d8dee;
+  border: none;
+  cursor: pointer;
+  background-color: aliceblue;
+  padding-bottom: 10px;
+  padding-left: 2px;
+}
+.profile {
+  border-radius: 5px;
+  border-width: 2px;
+  background-color: aliceblue;
+  border-color: rgb(159, 199, 233);
+  box-shadow: black;
+  width: 300px;
+  margin: 8px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.text{
+  padding-top: 10px;
+  color: black;
+  font-family: 'Arial Bold';
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.input{
+  width: 250px;
+  padding: 15px;
+  margin: 5px 0 22px 0; 
+  border: none;
+  background: rgb(255, 255, 255);
+}
